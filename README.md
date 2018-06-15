@@ -4,5 +4,5 @@ This is a simples TODO List created using only HTML, CSS and Javascript (jQuery)
 
 There's a .php file only to allow us to deploy the project on heroku.
 
-Here's the link to the live application:
+Here's the link to the deployed application:
 https://todolist-page.herokuapp.com/index.html
